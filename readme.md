@@ -11,7 +11,7 @@
   <a href="https://twitter.com/yasya_indra">Twitter</a>
 </p>
 
-I'm a software engineer and data scientist who love to build and imporove technology capabilities.
+I'm a software engineer and data scientist who trying to make a better world
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
