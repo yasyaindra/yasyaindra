@@ -18,7 +18,7 @@ I'm a software engineer and data scientist who trying to make a better world
 
 - 📫 How to reach me: <code>indramyasya@gmail.com</code>
 
-- ⚡ Fun fact: I'm so-called cinephile, bibliophile and in love with Nietzsche
+- ⚡ Fun fact: I'm so-called cinephile, Radiohead Jerk and self-declared Nietzschean
 - 🌱 I’m currently learning Python
 
 <!-- About section: END -->
