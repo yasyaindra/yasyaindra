@@ -16,10 +16,10 @@ I'm a software engineer and data scientist who trying to make a better world
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- 📫 How to reach me: <code>indramyasya@gmail.com</code>
+- 📫 How to reach me: <code>contact@yasya.tech</code>
 
-- ⚡ Fun fact: I'm so-called cinephile, Radiohead Jerk and self-declared Nietzschean
-- 🌱 I’m currently learning Python
+- ⚡ Fun fact: I like to watch movie, read Nietzche and listen to Radiohead
+- 🌱 I’m currently learning NextJS
 
 <!-- About section: END -->
 
