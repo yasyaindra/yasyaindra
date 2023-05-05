@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.yasyaindra.com">Website</a> •
-  <a href="https://instagram.com/yasyaindra">Twitter</a>
+  <a href="https://instagram.com/yasyaindra">Instagram</a>
 </p>
 
 I'm a software engineer and data scientist who trying to make a better world
