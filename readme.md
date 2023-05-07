@@ -11,11 +11,10 @@
   <a href="https://instagram.com/yasyaindra">Instagram</a>
 </p>
 
-I'm a software engineer and data scientist who trying to make a better world
+I'm a software engineer and data scientist who working on various project that might fit in/into your business
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 - 📫 How to reach me: <code>contact@yasya.tech</code>
-- 
 - 🌱 I’m currently learning Docker
