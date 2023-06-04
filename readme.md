@@ -17,4 +17,4 @@ I'm a software engineer and data scientist who working on various project that m
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 - 📫 How to reach me: <code>contact@yasya.tech</code>
-- 💻 Programming language I use: PHP, Golang, Python, Typescript
+- 🧠 Mastering Frontend (Typescript, NextJS), Backend (PHP, Laravel, Go, MySQL, MongoDB), Data Science (Python)
