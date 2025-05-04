@@ -11,10 +11,12 @@
   <a href="https://instagram.com/yasyaindra">Instagram</a>
 </p>
 
-I'm a software engineer and data scientist who working on various project that might fit in/into your business
+I'm wanna-be solopreneur and product engineer
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 - 📫 How to reach me: <code>contact@yasya.tech</code>
-- 🧠 Mastering Frontend (Typescript, NextJS), Backend (PHP, Laravel, Go, MySQL, MongoDB), Data Science (Python)
+- 🧠 I mainly use Typescript, NextJS, and PostgreeSQL
+- 🧑‍💻 Currently learning about Defi, LLM, and Product Design
+- Also sharing my journey on <a href="https://www.yasyaindra.com">my blog</a> (in Indonesia)
