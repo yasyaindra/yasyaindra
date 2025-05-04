@@ -16,7 +16,7 @@ I'm wanna-be solopreneur and product engineer
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- 📫 How to reach me: <code>contact@yasya.tech</code>
+- 📫 How to reach me: <code>indramyasya@gmail.com</code>
 - 🧠 I mainly use Typescript, NextJS, and PostgreeSQL
 - 🧑‍💻 Currently learning about Defi, LLM, and Product Design
 - Also sharing my journey on <a href="https://www.yasyaindra.com">my blog</a> (in Indonesia)
